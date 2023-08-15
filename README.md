@@ -6,7 +6,7 @@
 
 # Romário Nzenguele da Silva 👨‍💼 🇦🇴  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 - 🖤 I’m a Self-taugh, passionate about IT  & I like to build 🏗️  solutions</br>
-- 💻 I’m currently learning & working with some secrets stuffs</br> 
+- 💻 I’m currently learning Python</br> 
 - 🤩 I'm open to new challanges </br></br>
 
 ## ⚡ Tech Stack
